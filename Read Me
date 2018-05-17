@@ -1,0 +1,10 @@
+This is the course project for Computer Network
+
+Need to check the path of config files before running this program.
+	in segmentation, eventlogger and peerProcess.
+
+put the target file in peer_1001 and put the file information into common.cfg .
+
+compile all the java files into /cn and then type java peerProcess peerID in terminal.
+
+				----------Cheng Li   University of Florida
